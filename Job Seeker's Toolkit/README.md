@@ -24,7 +24,7 @@ Welcome to the Job Seeker's Toolkit! This folder is designed to assist you in yo
 
 ## How to Use This Toolkit
 
-Feel free to explore the subfolders for each category to access the resources that best fit your needs. You can download, customize, and use the provided templates, and utilise the tips and advice to enhance your job-seeking strategies.
+Feel free to explore the subfolders for each category to access the resources that best fit your needs. You can download, customise, and use the provided templates, and utilise the tips and advice to enhance your job-seeking strategies.
 
 We understand that job searching can be a challenging process, but with the right tools and guidance, you can increase your chances of landing the job you desire. Best of luck with your job search, and we hope this toolkit serves you well!
 
