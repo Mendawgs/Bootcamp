@@ -4,11 +4,11 @@ Welcome to the Job Seeker's Toolkit! This folder is designed to assist you in yo
 
 ## What's Inside
 
-1. **Interview Techniques**: This section is dedicated to helping you navigate job interviews with confidence. Here, you will find:
-   - A collection of common interview questions and expert tips on how to answer them.
-   - Strategies for handling behavioural and situational interview questions.
-   - Guidance on body language, attire, and overall presentation during interviews.
-   - Mock interview scenarios and sample answers to help you prepare effectively.
+1. **CV/Resume Improvement**: Your resume is your first impression on potential employers. Here, you can access resources that will help you improve your CV/resume:
+   - Proven tips for writing a compelling and professional CV.
+   - Resume templates designed for different career stages, from entry-level to experienced professionals.
+   - Guidance on how to highlight your skills, achievements, and experiences effectively.
+   - Advice on incorporating relevant keywords to increase your resume's chances of passing through Applicant Tracking Systems (ATS).
 
 2. **Cover Letter Templates**: Crafting a compelling cover letter is crucial when applying for jobs. In this section, you will find:
    - A variety of cover letter templates suitable for different job types and industries.
@@ -16,11 +16,11 @@ Welcome to the Job Seeker's Toolkit! This folder is designed to assist you in yo
    - Sample opening and closing paragraphs to grab employers' attention.
    - Advice on customising your cover letter to make it stand out.
 
-3. **CV/Resume Improvement**: Your resume is your first impression on potential employers. Here, you can access resources that will help you improve your CV/resume:
-   - Proven tips for writing a compelling and professional CV.
-   - Resume templates designed for different career stages, from entry-level to experienced professionals.
-   - Guidance on how to highlight your skills, achievements, and experiences effectively.
-   - Advice on incorporating relevant keywords to increase your resume's chances of passing through Applicant Tracking Systems (ATS).
+3. **Interview Techniques**: This section is dedicated to helping you navigate job interviews with confidence. Here, you will find:
+   - A collection of common interview questions and expert tips on how to answer them.
+   - Strategies for handling behavioural and situational interview questions.
+   - Guidance on body language, attire, and overall presentation during interviews.
+   - Mock interview scenarios and sample answers to help you prepare effectively.
 
 ## How to Use This Toolkit
 
